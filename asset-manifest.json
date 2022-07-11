@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mixer-public/static/css/main.7c10f7a5.chunk.css",
-    "main.js": "/mixer-public/static/js/main.0cd5c09f.chunk.js",
-    "main.js.map": "/mixer-public/static/js/main.0cd5c09f.chunk.js.map",
-    "runtime-main.js": "/mixer-public/static/js/runtime-main.0f897194.js",
-    "runtime-main.js.map": "/mixer-public/static/js/runtime-main.0f897194.js.map",
+    "main.css": "/mixer-public/static/css/main.c0a4f8e2.chunk.css",
+    "main.js": "/mixer-public/static/js/main.472c057e.chunk.js",
+    "main.js.map": "/mixer-public/static/js/main.472c057e.chunk.js.map",
+    "runtime-main.js": "/mixer-public/static/js/runtime-main.e169ecc4.js",
+    "runtime-main.js.map": "/mixer-public/static/js/runtime-main.e169ecc4.js.map",
     "static/css/2.99ac6e4b.chunk.css": "/mixer-public/static/css/2.99ac6e4b.chunk.css",
-    "static/js/2.aeda0650.chunk.js": "/mixer-public/static/js/2.aeda0650.chunk.js",
-    "static/js/2.aeda0650.chunk.js.map": "/mixer-public/static/js/2.aeda0650.chunk.js.map",
-    "static/js/3.4a85496c.chunk.js": "/mixer-public/static/js/3.4a85496c.chunk.js",
-    "static/js/3.4a85496c.chunk.js.map": "/mixer-public/static/js/3.4a85496c.chunk.js.map",
+    "static/js/2.5f84fd38.chunk.js": "/mixer-public/static/js/2.5f84fd38.chunk.js",
+    "static/js/2.5f84fd38.chunk.js.map": "/mixer-public/static/js/2.5f84fd38.chunk.js.map",
+    "static/js/3.e6e8acac.chunk.js": "/mixer-public/static/js/3.e6e8acac.chunk.js",
+    "static/js/3.e6e8acac.chunk.js.map": "/mixer-public/static/js/3.e6e8acac.chunk.js.map",
     "index.html": "/mixer-public/index.html",
     "static/css/2.99ac6e4b.chunk.css.map": "/mixer-public/static/css/2.99ac6e4b.chunk.css.map",
-    "static/css/main.7c10f7a5.chunk.css.map": "/mixer-public/static/css/main.7c10f7a5.chunk.css.map",
-    "static/js/2.aeda0650.chunk.js.LICENSE.txt": "/mixer-public/static/js/2.aeda0650.chunk.js.LICENSE.txt",
+    "static/css/main.c0a4f8e2.chunk.css.map": "/mixer-public/static/css/main.c0a4f8e2.chunk.css.map",
+    "static/js/2.5f84fd38.chunk.js.LICENSE.txt": "/mixer-public/static/js/2.5f84fd38.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/mixer-public/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f897194.js",
+    "static/js/runtime-main.e169ecc4.js",
     "static/css/2.99ac6e4b.chunk.css",
-    "static/js/2.aeda0650.chunk.js",
-    "static/css/main.7c10f7a5.chunk.css",
-    "static/js/main.0cd5c09f.chunk.js"
+    "static/js/2.5f84fd38.chunk.js",
+    "static/css/main.c0a4f8e2.chunk.css",
+    "static/js/main.472c057e.chunk.js"
   ]
 }
