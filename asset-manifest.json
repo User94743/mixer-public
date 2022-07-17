@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/mixer-public/static/css/main.c0a4f8e2.chunk.css",
-    "main.js": "/mixer-public/static/js/main.472c057e.chunk.js",
-    "main.js.map": "/mixer-public/static/js/main.472c057e.chunk.js.map",
-    "runtime-main.js": "/mixer-public/static/js/runtime-main.e169ecc4.js",
-    "runtime-main.js.map": "/mixer-public/static/js/runtime-main.e169ecc4.js.map",
+    "main.css": "/mixer-public/static/css/main.1bde68a8.chunk.css",
+    "main.js": "/mixer-public/static/js/main.47b88e0b.chunk.js",
+    "main.js.map": "/mixer-public/static/js/main.47b88e0b.chunk.js.map",
+    "runtime-main.js": "/mixer-public/static/js/runtime-main.d00a040e.js",
+    "runtime-main.js.map": "/mixer-public/static/js/runtime-main.d00a040e.js.map",
     "static/css/2.99ac6e4b.chunk.css": "/mixer-public/static/css/2.99ac6e4b.chunk.css",
-    "static/js/2.5f84fd38.chunk.js": "/mixer-public/static/js/2.5f84fd38.chunk.js",
-    "static/js/2.5f84fd38.chunk.js.map": "/mixer-public/static/js/2.5f84fd38.chunk.js.map",
-    "static/js/3.e6e8acac.chunk.js": "/mixer-public/static/js/3.e6e8acac.chunk.js",
-    "static/js/3.e6e8acac.chunk.js.map": "/mixer-public/static/js/3.e6e8acac.chunk.js.map",
+    "static/js/2.456cde3d.chunk.js": "/mixer-public/static/js/2.456cde3d.chunk.js",
+    "static/js/2.456cde3d.chunk.js.map": "/mixer-public/static/js/2.456cde3d.chunk.js.map",
+    "static/js/3.5b1a6953.chunk.js": "/mixer-public/static/js/3.5b1a6953.chunk.js",
+    "static/js/3.5b1a6953.chunk.js.map": "/mixer-public/static/js/3.5b1a6953.chunk.js.map",
     "index.html": "/mixer-public/index.html",
     "static/css/2.99ac6e4b.chunk.css.map": "/mixer-public/static/css/2.99ac6e4b.chunk.css.map",
-    "static/css/main.c0a4f8e2.chunk.css.map": "/mixer-public/static/css/main.c0a4f8e2.chunk.css.map",
-    "static/js/2.5f84fd38.chunk.js.LICENSE.txt": "/mixer-public/static/js/2.5f84fd38.chunk.js.LICENSE.txt",
+    "static/css/main.1bde68a8.chunk.css.map": "/mixer-public/static/css/main.1bde68a8.chunk.css.map",
+    "static/js/2.456cde3d.chunk.js.LICENSE.txt": "/mixer-public/static/js/2.456cde3d.chunk.js.LICENSE.txt",
+    "static/media/flag_england1.d05ac026.jpg": "/mixer-public/static/media/flag_england1.d05ac026.jpg",
+    "static/media/flag_ispanija_new.e44d2825.jpg": "/mixer-public/static/media/flag_ispanija_new.e44d2825.jpg",
+    "static/media/flag_rf_enl.1d0e560f.jpg": "/mixer-public/static/media/flag_rf_enl.1d0e560f.jpg",
     "static/media/logo.6ce24c58.svg": "/mixer-public/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e169ecc4.js",
+    "static/js/runtime-main.d00a040e.js",
     "static/css/2.99ac6e4b.chunk.css",
-    "static/js/2.5f84fd38.chunk.js",
-    "static/css/main.c0a4f8e2.chunk.css",
-    "static/js/main.472c057e.chunk.js"
+    "static/js/2.456cde3d.chunk.js",
+    "static/css/main.1bde68a8.chunk.css",
+    "static/js/main.47b88e0b.chunk.js"
   ]
 }
